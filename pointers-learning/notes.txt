@@ -1,0 +1,10 @@
+you can use arrays name as a pointer.
+
+In most contexts, array names decay to pointers. In simple words, array names are converted to pointers. That's the reason why we can use pointers to access elements of arrays.
+However, we should remember that pointers and arrays are not the same.
+
+it's how delete a array pointer:
+    delete[] 'name of array'
+
+soal:
+    vaghti deallocate mikonim 
