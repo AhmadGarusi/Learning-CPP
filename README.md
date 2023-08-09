@@ -1,4 +1,4 @@
 # fun-projects
-In this repository you can see my fun projects such as mini games, learning new things and etc.
-The following projects are made with C++:
-XO-game, football-team and link-list.
+<p>In this repository you can see my fun projects such as mini games, learning new things and etc.<br>
+The following projects are made with C++:<br>
+XO-game, football-team and link-list.</p>
